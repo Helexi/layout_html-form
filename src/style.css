@@ -5,14 +5,18 @@
   margin-top: 10px;
 }
 
+.form-fieldset:not(:first-child) {
+  margin-top: 20px;
+}
+
 .form_submit {
   margin-top: 20px;
 }
 
-.down {
-  margin-top: 20px;
+.form-field:last-child {
+  margin: 10;
 }
 
-.stop {
+.form-field:nth-child(2) {
   margin: 0;
 }
