@@ -13,10 +13,6 @@
   margin-top: 20px;
 }
 
-.form-field:last-child {
-  margin: 10;
-}
-
 .form-field:nth-child(2) {
   margin: 0;
 }
